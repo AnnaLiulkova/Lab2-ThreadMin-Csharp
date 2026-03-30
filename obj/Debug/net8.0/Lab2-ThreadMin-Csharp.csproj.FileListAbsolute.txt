@@ -1,0 +1,14 @@
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\bin\Debug\net8.0\Lab2-ThreadMin-Csharp.exe
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\bin\Debug\net8.0\Lab2-ThreadMin-Csharp.deps.json
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\bin\Debug\net8.0\Lab2-ThreadMin-Csharp.runtimeconfig.json
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\bin\Debug\net8.0\Lab2-ThreadMin-Csharp.dll
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\bin\Debug\net8.0\Lab2-ThreadMin-Csharp.pdb
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\Lab2-ThreadMin-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\Lab2-ThreadMin-Csharp.AssemblyInfoInputs.cache
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\Lab2-ThreadMin-Csharp.AssemblyInfo.cs
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\Lab2-ThreadMin-Csharp.csproj.CoreCompileInputs.cache
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\Lab2-ThreadMin-Csharp.dll
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\refint\Lab2-ThreadMin-Csharp.dll
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\Lab2-ThreadMin-Csharp.pdb
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\Lab2-ThreadMin-Csharp.genruntimeconfig.cache
+D:\УНІВЕРСИТЕТ32\ПОТРС\Lab2-ThreadMin-Csharp\obj\Debug\net8.0\ref\Lab2-ThreadMin-Csharp.dll
